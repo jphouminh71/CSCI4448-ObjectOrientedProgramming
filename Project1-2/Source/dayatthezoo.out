@@ -1,0 +1,938 @@
+---------------------------------------
+DAY 1 AT THE ZOO!
+---------------------------------------
+Zach the ZooKeeper is arriving at the zoo.
+Jon the ZooFoodEmployee is arriving at the zoo.
+Bao the ZooAnnouncer is arriving at the zoo.
+TIME (military): 800 
+Bao the ZooAnnouncer says, The Zookeeper is about to wake up the animals!
+Zach the ZooKeeper wakes up the animal Charles the Cat |  Charles the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Cole the Cat |  Cole the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Larry the Lion |  Larry the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Luke the Lion |  Luke the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Tigger the Tiger |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Travis the Tiger |  Travis the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Doug the Dog |  Doug the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal Dale the Dog |  Dale the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal William the Wolf |  William the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Whitney the Wolf |  Whitney the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Gerald the Gorilla |  Gerald the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Gavin the Gorilla |  Gavin the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Perry the Platypus |  Perry the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Patrick the Platypus |  Patrick the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Ellie the Elephant |  Ellie the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Elijah the Elephant |  Elijah the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Harry the Hippo |  Harry the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Hermione the Hippo |  Hermione the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rick the Rhino |  Rick the Rhino makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rainey the Rhino |  Rainey the Rhino makes a loud noise.
+Bao the ZooAnnouncer says, The Zookeeper is about to role call the animals!
+Zach the ZooKeeper roll calls for Charles the Cat  | Charles is here!
+Zach the ZooKeeper roll calls for Cole the Cat  | Cole is here!
+Zach the ZooKeeper roll calls for Larry the Lion  | Larry is here!
+Zach the ZooKeeper roll calls for Luke the Lion  | Luke is here!
+Zach the ZooKeeper roll calls for Tigger the Tiger  | Tigger is here!
+Zach the ZooKeeper roll calls for Travis the Tiger  | Travis is here!
+Zach the ZooKeeper roll calls for Doug the Dog  | Doug is here!
+Zach the ZooKeeper roll calls for Dale the Dog  | Dale is here!
+Zach the ZooKeeper roll calls for William the Wolf  | William is here!
+Zach the ZooKeeper roll calls for Whitney the Wolf  | Whitney is here!
+Zach the ZooKeeper roll calls for Gerald the Gorilla  | Gerald is here!
+Zach the ZooKeeper roll calls for Gavin the Gorilla  | Gavin is here!
+Zach the ZooKeeper roll calls for Perry the Platypus  | Perry is here!
+Zach the ZooKeeper roll calls for Patrick the Platypus  | Patrick is here!
+Zach the ZooKeeper roll calls for Ellie the Elephant  | Ellie is here!
+Zach the ZooKeeper roll calls for Elijah the Elephant  | Elijah is here!
+Zach the ZooKeeper roll calls for Harry the Hippo  | Harry is here!
+Zach the ZooKeeper roll calls for Hermione the Hippo  | Hermione is here!
+Zach the ZooKeeper roll calls for Rick the Rhino  | Rick is here!
+Zach the ZooKeeper roll calls for Rainey the Rhino  | Rainey is here!
+TIME (military): 900 
+TIME (military): 1000 
+TIME (military): 1100 
+Bao the ZooAnnouncer says, The Zookeeper is about to feed the animals!
+Zach the ZooKeeper feeds Charles the Cat | Charles the Cat is eating.
+Zach the ZooKeeper feeds Cole the Cat | Cole the Cat is eating.
+Zach the ZooKeeper feeds Larry the Lion | Larry the Lion is eating.
+Zach the ZooKeeper feeds Luke the Lion | Luke the Lion is eating.
+Zach the ZooKeeper feeds Tigger the Tiger | Tigger the Tiger is eating.
+Zach the ZooKeeper feeds Travis the Tiger | Travis the Tiger is eating.
+Zach the ZooKeeper feeds Doug the Dog | Doug the Dog is eating.
+Zach the ZooKeeper feeds Dale the Dog | Dale the Dog is eating.
+Zach the ZooKeeper feeds William the Wolf | William the Wolf is eating.
+Zach the ZooKeeper feeds Whitney the Wolf | Whitney the Wolf is eating.
+Zach the ZooKeeper feeds Gerald the Gorilla | Gerald the Gorilla is eating.
+Zach the ZooKeeper feeds Gavin the Gorilla | Gavin the Gorilla is eating.
+Zach the ZooKeeper feeds Perry the Platypus | Perry the Platypus is eating.
+Zach the ZooKeeper feeds Patrick the Platypus | Patrick the Platypus is eating.
+Zach the ZooKeeper feeds Ellie the Elephant | Ellie the Elephant is eating.
+Zach the ZooKeeper feeds Elijah the Elephant | Elijah the Elephant is eating.
+Zach the ZooKeeper feeds Harry the Hippo | Harry the Hippo is eating.
+Zach the ZooKeeper feeds Hermione the Hippo | Hermione the Hippo is eating.
+Zach the ZooKeeper feeds Rick the Rhino | Rick the Rhino is eating.
+Zach the ZooKeeper feeds Rainey the Rhino | Rainey the Rhino is eating.
+Bao the ZooAnnouncer says, The Zookeeper is about to excercise the animals!
+Zach the ZooKeeper excercises Charles the Cat |  Charles the Cat roams
+Zach the ZooKeeper excercises Cole the Cat |  Cole the Cat roams
+Zach the ZooKeeper excercises Larry the Lion |  Larry the Lion roams
+Zach the ZooKeeper excercises Luke the Lion |  Luke the Lion roams
+Zach the ZooKeeper excercises Tigger the Tiger |  Tigger the Tiger roams
+Zach the ZooKeeper excercises Travis the Tiger |  Travis the Tiger roams
+Zach the ZooKeeper excercises Doug the Dog |  Doug the dog is roaming.
+Zach the ZooKeeper excercises Dale the Dog |  Dale the dog is roaming.
+Zach the ZooKeeper excercises William the Wolf |  William the Wolf roams
+Zach the ZooKeeper excercises Whitney the Wolf |  Whitney the Wolf roams
+Zach the ZooKeeper excercises Gerald the Gorilla |  Gerald the Gorilla roams
+Zach the ZooKeeper excercises Gavin the Gorilla |  Gavin the Gorilla roams
+Zach the ZooKeeper excercises Perry the Platypus |  Perry the Platypus roams
+Zach the ZooKeeper excercises Patrick the Platypus |  Patrick the Platypus roams
+Zach the ZooKeeper excercises Ellie the Elephant |  Ellie the pachyderm roams.
+Zach the ZooKeeper excercises Elijah the Elephant |  Elijah the pachyderm roams.
+Zach the ZooKeeper excercises Harry the Hippo |  Harry the Hippo charges.
+Zach the ZooKeeper excercises Hermione the Hippo |  Hermione the pachyderm roams.
+Zach the ZooKeeper excercises Rick the Rhino |  Rick the pachyderm roams.
+Zach the ZooKeeper excercises Rainey the Rhino |  Rainey the pachyderm roams.
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1200 
+TIME (military): 1300 
+TIME (military): 1400 
+TIME (military): 1500 
+TIME (military): 1600 
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1700 
+TIME (military): 1800 
+Bao the ZooAnnouncer says, The Zookeeper is about to make the animals sleep!
+Zach the ZooKeeper to puts Charles the Cat to sleep |  Charles the Cat sleeps
+Zach the ZooKeeper to puts Cole the Cat to sleep |  Cole the Cat sleeps
+Zach the ZooKeeper to puts Larry the Lion to sleep |  Larry the Lion sleeps
+Zach the ZooKeeper to puts Luke the Lion to sleep |  Luke the Lion sleeps
+Zach the ZooKeeper to puts Tigger the Tiger to sleep |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper to puts Travis the Tiger to sleep |  Travis the Tiger roams
+Zach the ZooKeeper to puts Doug the Dog to sleep |  Doug the Dog sleeps
+Zach the ZooKeeper to puts Dale the Dog to sleep |  Dale the Dog sleeps
+Zach the ZooKeeper to puts William the Wolf to sleep |  William the Wolf sleeps
+Zach the ZooKeeper to puts Whitney the Wolf to sleep |  Whitney the Wolf sleeps
+Zach the ZooKeeper to puts Gerald the Gorilla to sleep |  Gerald the Gorilla sleeps
+Zach the ZooKeeper to puts Gavin the Gorilla to sleep |  Gavin the Gorilla sleeps
+Zach the ZooKeeper to puts Perry the Platypus to sleep |  Perry the Platypus sleeps
+Zach the ZooKeeper to puts Patrick the Platypus to sleep |  Patrick the Platypus sleeps
+Zach the ZooKeeper to puts Ellie the Elephant to sleep |  Ellie the Elephant sleeps
+Zach the ZooKeeper to puts Elijah the Elephant to sleep |  Elijah the Elephant sleeps
+Zach the ZooKeeper to puts Harry the Hippo to sleep |  Harry the Hippo sleeps
+Zach the ZooKeeper to puts Hermione the Hippo to sleep |  Hermione the Hippo sleeps
+Zach the ZooKeeper to puts Rick the Rhino to sleep |  Rick the Rhino sleeps
+Zach the ZooKeeper to puts Rainey the Rhino to sleep |  Rainey the Rhino sleeps
+TIME (military): 1900 
+TIME (military): 2000 
+Zach the ZooKeeper is leaving the zoo for the day.
+Jon the ZooFoodEmployee is leaving the zoo for the day.
+Bao the ZooAnnouncer is leaving the zoo for the day.
+TIME (military): 2100 
+---------------------------------------
+DAY 2 AT THE ZOO!
+---------------------------------------
+Zach the ZooKeeper is arriving at the zoo.
+Jon the ZooFoodEmployee is arriving at the zoo.
+Bao the ZooAnnouncer is arriving at the zoo.
+TIME (military): 800 
+Bao the ZooAnnouncer says, The Zookeeper is about to wake up the animals!
+Zach the ZooKeeper wakes up the animal Charles the Cat |  Charles the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Cole the Cat |  Cole the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Larry the Lion |  Larry the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Luke the Lion |  Luke the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Tigger the Tiger |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Travis the Tiger |  Travis the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Doug the Dog |  Doug the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal Dale the Dog |  Dale the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal William the Wolf |  William the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Whitney the Wolf |  Whitney the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Gerald the Gorilla |  Gerald the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Gavin the Gorilla |  Gavin the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Perry the Platypus |  Perry the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Patrick the Platypus |  Patrick the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Ellie the Elephant |  Ellie the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Elijah the Elephant |  Elijah the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Harry the Hippo |  Harry the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Hermione the Hippo |  Hermione the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rick the Rhino |  Rick the Rhino makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rainey the Rhino |  Rainey the Rhino makes a loud noise.
+Bao the ZooAnnouncer says, The Zookeeper is about to role call the animals!
+Zach the ZooKeeper roll calls for Charles the Cat  | Charles is here!
+Zach the ZooKeeper roll calls for Cole the Cat  | Cole is here!
+Zach the ZooKeeper roll calls for Larry the Lion  | Larry is here!
+Zach the ZooKeeper roll calls for Luke the Lion  | Luke is here!
+Zach the ZooKeeper roll calls for Tigger the Tiger  | Tigger is here!
+Zach the ZooKeeper roll calls for Travis the Tiger  | Travis is here!
+Zach the ZooKeeper roll calls for Doug the Dog  | Doug is here!
+Zach the ZooKeeper roll calls for Dale the Dog  | Dale is here!
+Zach the ZooKeeper roll calls for William the Wolf  | William is here!
+Zach the ZooKeeper roll calls for Whitney the Wolf  | Whitney is here!
+Zach the ZooKeeper roll calls for Gerald the Gorilla  | Gerald is here!
+Zach the ZooKeeper roll calls for Gavin the Gorilla  | Gavin is here!
+Zach the ZooKeeper roll calls for Perry the Platypus  | Perry is here!
+Zach the ZooKeeper roll calls for Patrick the Platypus  | Patrick is here!
+Zach the ZooKeeper roll calls for Ellie the Elephant  | Ellie is here!
+Zach the ZooKeeper roll calls for Elijah the Elephant  | Elijah is here!
+Zach the ZooKeeper roll calls for Harry the Hippo  | Harry is here!
+Zach the ZooKeeper roll calls for Hermione the Hippo  | Hermione is here!
+Zach the ZooKeeper roll calls for Rick the Rhino  | Rick is here!
+Zach the ZooKeeper roll calls for Rainey the Rhino  | Rainey is here!
+TIME (military): 900 
+TIME (military): 1000 
+TIME (military): 1100 
+Bao the ZooAnnouncer says, The Zookeeper is about to feed the animals!
+Zach the ZooKeeper feeds Charles the Cat | Charles the Cat is eating.
+Zach the ZooKeeper feeds Cole the Cat | Cole the Cat is eating.
+Zach the ZooKeeper feeds Larry the Lion | Larry the Lion is eating.
+Zach the ZooKeeper feeds Luke the Lion | Luke the Lion is eating.
+Zach the ZooKeeper feeds Tigger the Tiger | Tigger the Tiger is eating.
+Zach the ZooKeeper feeds Travis the Tiger | Travis the Tiger is eating.
+Zach the ZooKeeper feeds Doug the Dog | Doug the Dog is eating.
+Zach the ZooKeeper feeds Dale the Dog | Dale the Dog is eating.
+Zach the ZooKeeper feeds William the Wolf | William the Wolf is eating.
+Zach the ZooKeeper feeds Whitney the Wolf | Whitney the Wolf is eating.
+Zach the ZooKeeper feeds Gerald the Gorilla | Gerald the Gorilla is eating.
+Zach the ZooKeeper feeds Gavin the Gorilla | Gavin the Gorilla is eating.
+Zach the ZooKeeper feeds Perry the Platypus | Perry the Platypus is eating.
+Zach the ZooKeeper feeds Patrick the Platypus | Patrick the Platypus is eating.
+Zach the ZooKeeper feeds Ellie the Elephant | Ellie the Elephant is eating.
+Zach the ZooKeeper feeds Elijah the Elephant | Elijah the Elephant is eating.
+Zach the ZooKeeper feeds Harry the Hippo | Harry the Hippo is eating.
+Zach the ZooKeeper feeds Hermione the Hippo | Hermione the Hippo is eating.
+Zach the ZooKeeper feeds Rick the Rhino | Rick the Rhino is eating.
+Zach the ZooKeeper feeds Rainey the Rhino | Rainey the Rhino is eating.
+Bao the ZooAnnouncer says, The Zookeeper is about to excercise the animals!
+Zach the ZooKeeper excercises Charles the Cat |  Charles the Cat roams
+Zach the ZooKeeper excercises Cole the Cat |  Cole the Cat roams
+Zach the ZooKeeper excercises Larry the Lion |  Larry the Lion roams
+Zach the ZooKeeper excercises Luke the Lion |  Luke the Lion roams
+Zach the ZooKeeper excercises Tigger the Tiger |  Tigger the Tiger roams
+Zach the ZooKeeper excercises Travis the Tiger |  Travis the Tiger roams
+Zach the ZooKeeper excercises Doug the Dog |  Doug the dog is roaming.
+Zach the ZooKeeper excercises Dale the Dog |  Dale the dog is roaming.
+Zach the ZooKeeper excercises William the Wolf |  William the Wolf roams
+Zach the ZooKeeper excercises Whitney the Wolf |  Whitney the Wolf roams
+Zach the ZooKeeper excercises Gerald the Gorilla |  Gerald the Gorilla roams
+Zach the ZooKeeper excercises Gavin the Gorilla |  Gavin the Gorilla roams
+Zach the ZooKeeper excercises Perry the Platypus |  Perry the Platypus roams
+Zach the ZooKeeper excercises Patrick the Platypus |  Patrick the Platypus roams
+Zach the ZooKeeper excercises Ellie the Elephant |  Ellie the Elephant charges.
+Zach the ZooKeeper excercises Elijah the Elephant |  Elijah the pachyderm roams.
+Zach the ZooKeeper excercises Harry the Hippo |  Harry the pachyderm roams.
+Zach the ZooKeeper excercises Hermione the Hippo |  Hermione the pachyderm roams.
+Zach the ZooKeeper excercises Rick the Rhino |  Rick the pachyderm roams.
+Zach the ZooKeeper excercises Rainey the Rhino |  Rainey the pachyderm roams.
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1200 
+TIME (military): 1300 
+TIME (military): 1400 
+TIME (military): 1500 
+TIME (military): 1600 
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1700 
+TIME (military): 1800 
+Bao the ZooAnnouncer says, The Zookeeper is about to make the animals sleep!
+Zach the ZooKeeper to puts Charles the Cat to sleep |  Charles the Cat sleeps
+Zach the ZooKeeper to puts Cole the Cat to sleep |  Cole the Cat sleeps
+Zach the ZooKeeper to puts Larry the Lion to sleep |  Larry the Lion sleeps
+Zach the ZooKeeper to puts Luke the Lion to sleep |  Luke the Lion sleeps
+Zach the ZooKeeper to puts Tigger the Tiger to sleep |  Tigger the Tiger roams
+Zach the ZooKeeper to puts Travis the Tiger to sleep |  Travis the Tiger roams
+Zach the ZooKeeper to puts Doug the Dog to sleep |  Doug the Dog sleeps
+Zach the ZooKeeper to puts Dale the Dog to sleep |  Dale the Dog sleeps
+Zach the ZooKeeper to puts William the Wolf to sleep |  William the Wolf sleeps
+Zach the ZooKeeper to puts Whitney the Wolf to sleep |  Whitney the Wolf sleeps
+Zach the ZooKeeper to puts Gerald the Gorilla to sleep |  Gerald the Gorilla sleeps
+Zach the ZooKeeper to puts Gavin the Gorilla to sleep |  Gavin the Gorilla sleeps
+Zach the ZooKeeper to puts Perry the Platypus to sleep |  Perry the Platypus sleeps
+Zach the ZooKeeper to puts Patrick the Platypus to sleep |  Patrick the Platypus sleeps
+Zach the ZooKeeper to puts Ellie the Elephant to sleep |  Ellie the Elephant sleeps
+Zach the ZooKeeper to puts Elijah the Elephant to sleep |  Elijah the Elephant sleeps
+Zach the ZooKeeper to puts Harry the Hippo to sleep |  Harry the Hippo sleeps
+Zach the ZooKeeper to puts Hermione the Hippo to sleep |  Hermione the Hippo sleeps
+Zach the ZooKeeper to puts Rick the Rhino to sleep |  Rick the Rhino sleeps
+Zach the ZooKeeper to puts Rainey the Rhino to sleep |  Rainey the Rhino sleeps
+TIME (military): 1900 
+TIME (military): 2000 
+Zach the ZooKeeper is leaving the zoo for the day.
+Jon the ZooFoodEmployee is leaving the zoo for the day.
+Bao the ZooAnnouncer is leaving the zoo for the day.
+TIME (military): 2100 
+---------------------------------------
+DAY 3 AT THE ZOO!
+---------------------------------------
+Zach the ZooKeeper is arriving at the zoo.
+Jon the ZooFoodEmployee is arriving at the zoo.
+Bao the ZooAnnouncer is arriving at the zoo.
+TIME (military): 800 
+Bao the ZooAnnouncer says, The Zookeeper is about to wake up the animals!
+Zach the ZooKeeper wakes up the animal Charles the Cat |  Charles the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Cole the Cat |  Cole the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Larry the Lion |  Larry the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Luke the Lion |  Luke the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Tigger the Tiger |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Travis the Tiger |  Travis the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Doug the Dog |  Doug the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal Dale the Dog |  Dale the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal William the Wolf |  William the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Whitney the Wolf |  Whitney the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Gerald the Gorilla |  Gerald the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Gavin the Gorilla |  Gavin the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Perry the Platypus |  Perry the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Patrick the Platypus |  Patrick the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Ellie the Elephant |  Ellie the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Elijah the Elephant |  Elijah the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Harry the Hippo |  Harry the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Hermione the Hippo |  Hermione the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rick the Rhino |  Rick the Rhino makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rainey the Rhino |  Rainey the Rhino makes a loud noise.
+Bao the ZooAnnouncer says, The Zookeeper is about to role call the animals!
+Zach the ZooKeeper roll calls for Charles the Cat  | Charles is here!
+Zach the ZooKeeper roll calls for Cole the Cat  | Cole is here!
+Zach the ZooKeeper roll calls for Larry the Lion  | Larry is here!
+Zach the ZooKeeper roll calls for Luke the Lion  | Luke is here!
+Zach the ZooKeeper roll calls for Tigger the Tiger  | Tigger is here!
+Zach the ZooKeeper roll calls for Travis the Tiger  | Travis is here!
+Zach the ZooKeeper roll calls for Doug the Dog  | Doug is here!
+Zach the ZooKeeper roll calls for Dale the Dog  | Dale is here!
+Zach the ZooKeeper roll calls for William the Wolf  | William is here!
+Zach the ZooKeeper roll calls for Whitney the Wolf  | Whitney is here!
+Zach the ZooKeeper roll calls for Gerald the Gorilla  | Gerald is here!
+Zach the ZooKeeper roll calls for Gavin the Gorilla  | Gavin is here!
+Zach the ZooKeeper roll calls for Perry the Platypus  | Perry is here!
+Zach the ZooKeeper roll calls for Patrick the Platypus  | Patrick is here!
+Zach the ZooKeeper roll calls for Ellie the Elephant  | Ellie is here!
+Zach the ZooKeeper roll calls for Elijah the Elephant  | Elijah is here!
+Zach the ZooKeeper roll calls for Harry the Hippo  | Harry is here!
+Zach the ZooKeeper roll calls for Hermione the Hippo  | Hermione is here!
+Zach the ZooKeeper roll calls for Rick the Rhino  | Rick is here!
+Zach the ZooKeeper roll calls for Rainey the Rhino  | Rainey is here!
+TIME (military): 900 
+TIME (military): 1000 
+TIME (military): 1100 
+Bao the ZooAnnouncer says, The Zookeeper is about to feed the animals!
+Zach the ZooKeeper feeds Charles the Cat | Charles the Cat is eating.
+Zach the ZooKeeper feeds Cole the Cat | Cole the Cat is eating.
+Zach the ZooKeeper feeds Larry the Lion | Larry the Lion is eating.
+Zach the ZooKeeper feeds Luke the Lion | Luke the Lion is eating.
+Zach the ZooKeeper feeds Tigger the Tiger | Tigger the Tiger is eating.
+Zach the ZooKeeper feeds Travis the Tiger | Travis the Tiger is eating.
+Zach the ZooKeeper feeds Doug the Dog | Doug the Dog is eating.
+Zach the ZooKeeper feeds Dale the Dog | Dale the Dog is eating.
+Zach the ZooKeeper feeds William the Wolf | William the Wolf is eating.
+Zach the ZooKeeper feeds Whitney the Wolf | Whitney the Wolf is eating.
+Zach the ZooKeeper feeds Gerald the Gorilla | Gerald the Gorilla is eating.
+Zach the ZooKeeper feeds Gavin the Gorilla | Gavin the Gorilla is eating.
+Zach the ZooKeeper feeds Perry the Platypus | Perry the Platypus is eating.
+Zach the ZooKeeper feeds Patrick the Platypus | Patrick the Platypus is eating.
+Zach the ZooKeeper feeds Ellie the Elephant | Ellie the Elephant is eating.
+Zach the ZooKeeper feeds Elijah the Elephant | Elijah the Elephant is eating.
+Zach the ZooKeeper feeds Harry the Hippo | Harry the Hippo is eating.
+Zach the ZooKeeper feeds Hermione the Hippo | Hermione the Hippo is eating.
+Zach the ZooKeeper feeds Rick the Rhino | Rick the Rhino is eating.
+Zach the ZooKeeper feeds Rainey the Rhino | Rainey the Rhino is eating.
+Bao the ZooAnnouncer says, The Zookeeper is about to excercise the animals!
+Zach the ZooKeeper excercises Charles the Cat |  Charles the Cat roams
+Zach the ZooKeeper excercises Cole the Cat |  Cole the Cat roams
+Zach the ZooKeeper excercises Larry the Lion |  Larry the Lion roams
+Zach the ZooKeeper excercises Luke the Lion |  Luke the Lion roams
+Zach the ZooKeeper excercises Tigger the Tiger |  Tigger the Tiger roams
+Zach the ZooKeeper excercises Travis the Tiger |  Travis the Tiger roams
+Zach the ZooKeeper excercises Doug the Dog |  Doug the dog is roaming.
+Zach the ZooKeeper excercises Dale the Dog |  Dale the dog is roaming.
+Zach the ZooKeeper excercises William the Wolf |  William the Wolf roams
+Zach the ZooKeeper excercises Whitney the Wolf |  Whitney the Wolf roams
+Zach the ZooKeeper excercises Gerald the Gorilla |  Gerald the Gorilla roams
+Zach the ZooKeeper excercises Gavin the Gorilla |  Gavin the Gorilla roams
+Zach the ZooKeeper excercises Perry the Platypus |  Perry the Platypus roams
+Zach the ZooKeeper excercises Patrick the Platypus |  Patrick the Platypus roams
+Zach the ZooKeeper excercises Ellie the Elephant |  Ellie the pachyderm roams.
+Zach the ZooKeeper excercises Elijah the Elephant |  Elijah the Elephant charges.
+Zach the ZooKeeper excercises Harry the Hippo |  Harry the pachyderm roams.
+Zach the ZooKeeper excercises Hermione the Hippo |  Hermione the pachyderm roams.
+Zach the ZooKeeper excercises Rick the Rhino |  Rick the pachyderm roams.
+Zach the ZooKeeper excercises Rainey the Rhino |  Rainey the pachyderm roams.
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1200 
+TIME (military): 1300 
+TIME (military): 1400 
+TIME (military): 1500 
+TIME (military): 1600 
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1700 
+TIME (military): 1800 
+Bao the ZooAnnouncer says, The Zookeeper is about to make the animals sleep!
+Zach the ZooKeeper to puts Charles the Cat to sleep |  Charles the Cat sleeps
+Zach the ZooKeeper to puts Cole the Cat to sleep |  Cole the Cat sleeps
+Zach the ZooKeeper to puts Larry the Lion to sleep |  Larry the Lion sleeps
+Zach the ZooKeeper to puts Luke the Lion to sleep |  Luke the Lion sleeps
+Zach the ZooKeeper to puts Tigger the Tiger to sleep |  Tigger the Tiger roams
+Zach the ZooKeeper to puts Travis the Tiger to sleep |  Travis the Tiger makes no noise.
+Zach the ZooKeeper to puts Doug the Dog to sleep |  Doug the Dog sleeps
+Zach the ZooKeeper to puts Dale the Dog to sleep |  Dale the Dog sleeps
+Zach the ZooKeeper to puts William the Wolf to sleep |  William the Wolf sleeps
+Zach the ZooKeeper to puts Whitney the Wolf to sleep |  Whitney the Wolf sleeps
+Zach the ZooKeeper to puts Gerald the Gorilla to sleep |  Gerald the Gorilla sleeps
+Zach the ZooKeeper to puts Gavin the Gorilla to sleep |  Gavin the Gorilla sleeps
+Zach the ZooKeeper to puts Perry the Platypus to sleep |  Perry the Platypus sleeps
+Zach the ZooKeeper to puts Patrick the Platypus to sleep |  Patrick the Platypus sleeps
+Zach the ZooKeeper to puts Ellie the Elephant to sleep |  Ellie the Elephant sleeps
+Zach the ZooKeeper to puts Elijah the Elephant to sleep |  Elijah the Elephant sleeps
+Zach the ZooKeeper to puts Harry the Hippo to sleep |  Harry the Hippo sleeps
+Zach the ZooKeeper to puts Hermione the Hippo to sleep |  Hermione the Hippo sleeps
+Zach the ZooKeeper to puts Rick the Rhino to sleep |  Rick the Rhino sleeps
+Zach the ZooKeeper to puts Rainey the Rhino to sleep |  Rainey the Rhino sleeps
+TIME (military): 1900 
+TIME (military): 2000 
+Zach the ZooKeeper is leaving the zoo for the day.
+Jon the ZooFoodEmployee is leaving the zoo for the day.
+Bao the ZooAnnouncer is leaving the zoo for the day.
+TIME (military): 2100 
+---------------------------------------
+DAY 4 AT THE ZOO!
+---------------------------------------
+Zach the ZooKeeper is arriving at the zoo.
+Jon the ZooFoodEmployee is arriving at the zoo.
+Bao the ZooAnnouncer is arriving at the zoo.
+TIME (military): 800 
+Bao the ZooAnnouncer says, The Zookeeper is about to wake up the animals!
+Zach the ZooKeeper wakes up the animal Charles the Cat |  Charles the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Cole the Cat |  Cole the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Larry the Lion |  Larry the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Luke the Lion |  Luke the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Tigger the Tiger |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Travis the Tiger |  Travis the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Doug the Dog |  Doug the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal Dale the Dog |  Dale the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal William the Wolf |  William the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Whitney the Wolf |  Whitney the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Gerald the Gorilla |  Gerald the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Gavin the Gorilla |  Gavin the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Perry the Platypus |  Perry the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Patrick the Platypus |  Patrick the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Ellie the Elephant |  Ellie the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Elijah the Elephant |  Elijah the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Harry the Hippo |  Harry the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Hermione the Hippo |  Hermione the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rick the Rhino |  Rick the Rhino makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rainey the Rhino |  Rainey the Rhino makes a loud noise.
+Bao the ZooAnnouncer says, The Zookeeper is about to role call the animals!
+Zach the ZooKeeper roll calls for Charles the Cat  | Charles is here!
+Zach the ZooKeeper roll calls for Cole the Cat  | Cole is here!
+Zach the ZooKeeper roll calls for Larry the Lion  | Larry is here!
+Zach the ZooKeeper roll calls for Luke the Lion  | Luke is here!
+Zach the ZooKeeper roll calls for Tigger the Tiger  | Tigger is here!
+Zach the ZooKeeper roll calls for Travis the Tiger  | Travis is here!
+Zach the ZooKeeper roll calls for Doug the Dog  | Doug is here!
+Zach the ZooKeeper roll calls for Dale the Dog  | Dale is here!
+Zach the ZooKeeper roll calls for William the Wolf  | William is here!
+Zach the ZooKeeper roll calls for Whitney the Wolf  | Whitney is here!
+Zach the ZooKeeper roll calls for Gerald the Gorilla  | Gerald is here!
+Zach the ZooKeeper roll calls for Gavin the Gorilla  | Gavin is here!
+Zach the ZooKeeper roll calls for Perry the Platypus  | Perry is here!
+Zach the ZooKeeper roll calls for Patrick the Platypus  | Patrick is here!
+Zach the ZooKeeper roll calls for Ellie the Elephant  | Ellie is here!
+Zach the ZooKeeper roll calls for Elijah the Elephant  | Elijah is here!
+Zach the ZooKeeper roll calls for Harry the Hippo  | Harry is here!
+Zach the ZooKeeper roll calls for Hermione the Hippo  | Hermione is here!
+Zach the ZooKeeper roll calls for Rick the Rhino  | Rick is here!
+Zach the ZooKeeper roll calls for Rainey the Rhino  | Rainey is here!
+TIME (military): 900 
+TIME (military): 1000 
+TIME (military): 1100 
+Bao the ZooAnnouncer says, The Zookeeper is about to feed the animals!
+Zach the ZooKeeper feeds Charles the Cat | Charles the Cat is eating.
+Zach the ZooKeeper feeds Cole the Cat | Cole the Cat is eating.
+Zach the ZooKeeper feeds Larry the Lion | Larry the Lion is eating.
+Zach the ZooKeeper feeds Luke the Lion | Luke the Lion is eating.
+Zach the ZooKeeper feeds Tigger the Tiger | Tigger the Tiger is eating.
+Zach the ZooKeeper feeds Travis the Tiger | Travis the Tiger is eating.
+Zach the ZooKeeper feeds Doug the Dog | Doug the Dog is eating.
+Zach the ZooKeeper feeds Dale the Dog | Dale the Dog is eating.
+Zach the ZooKeeper feeds William the Wolf | William the Wolf is eating.
+Zach the ZooKeeper feeds Whitney the Wolf | Whitney the Wolf is eating.
+Zach the ZooKeeper feeds Gerald the Gorilla | Gerald the Gorilla is eating.
+Zach the ZooKeeper feeds Gavin the Gorilla | Gavin the Gorilla is eating.
+Zach the ZooKeeper feeds Perry the Platypus | Perry the Platypus is eating.
+Zach the ZooKeeper feeds Patrick the Platypus | Patrick the Platypus is eating.
+Zach the ZooKeeper feeds Ellie the Elephant | Ellie the Elephant is eating.
+Zach the ZooKeeper feeds Elijah the Elephant | Elijah the Elephant is eating.
+Zach the ZooKeeper feeds Harry the Hippo | Harry the Hippo is eating.
+Zach the ZooKeeper feeds Hermione the Hippo | Hermione the Hippo is eating.
+Zach the ZooKeeper feeds Rick the Rhino | Rick the Rhino is eating.
+Zach the ZooKeeper feeds Rainey the Rhino | Rainey the Rhino is eating.
+Bao the ZooAnnouncer says, The Zookeeper is about to excercise the animals!
+Zach the ZooKeeper excercises Charles the Cat |  Charles the Cat roams
+Zach the ZooKeeper excercises Cole the Cat |  Cole the Cat roams
+Zach the ZooKeeper excercises Larry the Lion |  Larry the Lion roams
+Zach the ZooKeeper excercises Luke the Lion |  Luke the Lion roams
+Zach the ZooKeeper excercises Tigger the Tiger |  Tigger the Tiger roams
+Zach the ZooKeeper excercises Travis the Tiger |  Travis the Tiger roams
+Zach the ZooKeeper excercises Doug the Dog |  Doug the dog is roaming.
+Zach the ZooKeeper excercises Dale the Dog |  Dale the dog is roaming.
+Zach the ZooKeeper excercises William the Wolf |  William the Wolf roams
+Zach the ZooKeeper excercises Whitney the Wolf |  Whitney the Wolf roams
+Zach the ZooKeeper excercises Gerald the Gorilla |  Gerald the Gorilla roams
+Zach the ZooKeeper excercises Gavin the Gorilla |  Gavin the Gorilla roams
+Zach the ZooKeeper excercises Perry the Platypus |  Perry the Platypus roams
+Zach the ZooKeeper excercises Patrick the Platypus |  Patrick the Platypus roams
+Zach the ZooKeeper excercises Ellie the Elephant |  Ellie the pachyderm roams.
+Zach the ZooKeeper excercises Elijah the Elephant |  Elijah the pachyderm roams.
+Zach the ZooKeeper excercises Harry the Hippo |  Harry the Hippo charges.
+Zach the ZooKeeper excercises Hermione the Hippo |  Hermione the Hippo charges.
+Zach the ZooKeeper excercises Rick the Rhino |  Rick the pachyderm roams.
+Zach the ZooKeeper excercises Rainey the Rhino |  Rainey the pachyderm roams.
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1200 
+TIME (military): 1300 
+TIME (military): 1400 
+TIME (military): 1500 
+TIME (military): 1600 
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1700 
+TIME (military): 1800 
+Bao the ZooAnnouncer says, The Zookeeper is about to make the animals sleep!
+Zach the ZooKeeper to puts Charles the Cat to sleep |  Charles the Cat sleeps
+Zach the ZooKeeper to puts Cole the Cat to sleep |  Cole the Cat sleeps
+Zach the ZooKeeper to puts Larry the Lion to sleep |  Larry the Lion sleeps
+Zach the ZooKeeper to puts Luke the Lion to sleep |  Luke the Lion sleeps
+Zach the ZooKeeper to puts Tigger the Tiger to sleep |  Tigger the Tiger roams
+Zach the ZooKeeper to puts Travis the Tiger to sleep |  Travis the Tiger roams
+Zach the ZooKeeper to puts Doug the Dog to sleep |  Doug the Dog sleeps
+Zach the ZooKeeper to puts Dale the Dog to sleep |  Dale the Dog sleeps
+Zach the ZooKeeper to puts William the Wolf to sleep |  William the Wolf sleeps
+Zach the ZooKeeper to puts Whitney the Wolf to sleep |  Whitney the Wolf sleeps
+Zach the ZooKeeper to puts Gerald the Gorilla to sleep |  Gerald the Gorilla sleeps
+Zach the ZooKeeper to puts Gavin the Gorilla to sleep |  Gavin the Gorilla sleeps
+Zach the ZooKeeper to puts Perry the Platypus to sleep |  Perry the Platypus sleeps
+Zach the ZooKeeper to puts Patrick the Platypus to sleep |  Patrick the Platypus sleeps
+Zach the ZooKeeper to puts Ellie the Elephant to sleep |  Ellie the Elephant sleeps
+Zach the ZooKeeper to puts Elijah the Elephant to sleep |  Elijah the Elephant sleeps
+Zach the ZooKeeper to puts Harry the Hippo to sleep |  Harry the Hippo sleeps
+Zach the ZooKeeper to puts Hermione the Hippo to sleep |  Hermione the Hippo sleeps
+Zach the ZooKeeper to puts Rick the Rhino to sleep |  Rick the Rhino sleeps
+Zach the ZooKeeper to puts Rainey the Rhino to sleep |  Rainey the Rhino sleeps
+TIME (military): 1900 
+TIME (military): 2000 
+Zach the ZooKeeper is leaving the zoo for the day.
+Jon the ZooFoodEmployee is leaving the zoo for the day.
+Bao the ZooAnnouncer is leaving the zoo for the day.
+TIME (military): 2100 
+---------------------------------------
+DAY 5 AT THE ZOO!
+---------------------------------------
+Zach the ZooKeeper is arriving at the zoo.
+Jon the ZooFoodEmployee is arriving at the zoo.
+Bao the ZooAnnouncer is arriving at the zoo.
+TIME (military): 800 
+Bao the ZooAnnouncer says, The Zookeeper is about to wake up the animals!
+Zach the ZooKeeper wakes up the animal Charles the Cat |  Charles the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Cole the Cat |  Cole the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Larry the Lion |  Larry the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Luke the Lion |  Luke the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Tigger the Tiger |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Travis the Tiger |  Travis the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Doug the Dog |  Doug the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal Dale the Dog |  Dale the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal William the Wolf |  William the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Whitney the Wolf |  Whitney the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Gerald the Gorilla |  Gerald the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Gavin the Gorilla |  Gavin the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Perry the Platypus |  Perry the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Patrick the Platypus |  Patrick the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Ellie the Elephant |  Ellie the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Elijah the Elephant |  Elijah the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Harry the Hippo |  Harry the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Hermione the Hippo |  Hermione the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rick the Rhino |  Rick the Rhino makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rainey the Rhino |  Rainey the Rhino makes a loud noise.
+Bao the ZooAnnouncer says, The Zookeeper is about to role call the animals!
+Zach the ZooKeeper roll calls for Charles the Cat  | Charles is here!
+Zach the ZooKeeper roll calls for Cole the Cat  | Cole is here!
+Zach the ZooKeeper roll calls for Larry the Lion  | Larry is here!
+Zach the ZooKeeper roll calls for Luke the Lion  | Luke is here!
+Zach the ZooKeeper roll calls for Tigger the Tiger  | Tigger is here!
+Zach the ZooKeeper roll calls for Travis the Tiger  | Travis is here!
+Zach the ZooKeeper roll calls for Doug the Dog  | Doug is here!
+Zach the ZooKeeper roll calls for Dale the Dog  | Dale is here!
+Zach the ZooKeeper roll calls for William the Wolf  | William is here!
+Zach the ZooKeeper roll calls for Whitney the Wolf  | Whitney is here!
+Zach the ZooKeeper roll calls for Gerald the Gorilla  | Gerald is here!
+Zach the ZooKeeper roll calls for Gavin the Gorilla  | Gavin is here!
+Zach the ZooKeeper roll calls for Perry the Platypus  | Perry is here!
+Zach the ZooKeeper roll calls for Patrick the Platypus  | Patrick is here!
+Zach the ZooKeeper roll calls for Ellie the Elephant  | Ellie is here!
+Zach the ZooKeeper roll calls for Elijah the Elephant  | Elijah is here!
+Zach the ZooKeeper roll calls for Harry the Hippo  | Harry is here!
+Zach the ZooKeeper roll calls for Hermione the Hippo  | Hermione is here!
+Zach the ZooKeeper roll calls for Rick the Rhino  | Rick is here!
+Zach the ZooKeeper roll calls for Rainey the Rhino  | Rainey is here!
+TIME (military): 900 
+TIME (military): 1000 
+TIME (military): 1100 
+Bao the ZooAnnouncer says, The Zookeeper is about to feed the animals!
+Zach the ZooKeeper feeds Charles the Cat | Charles the Cat is eating.
+Zach the ZooKeeper feeds Cole the Cat | Cole the Cat is eating.
+Zach the ZooKeeper feeds Larry the Lion | Larry the Lion is eating.
+Zach the ZooKeeper feeds Luke the Lion | Luke the Lion is eating.
+Zach the ZooKeeper feeds Tigger the Tiger | Tigger the Tiger is eating.
+Zach the ZooKeeper feeds Travis the Tiger | Travis the Tiger is eating.
+Zach the ZooKeeper feeds Doug the Dog | Doug the Dog is eating.
+Zach the ZooKeeper feeds Dale the Dog | Dale the Dog is eating.
+Zach the ZooKeeper feeds William the Wolf | William the Wolf is eating.
+Zach the ZooKeeper feeds Whitney the Wolf | Whitney the Wolf is eating.
+Zach the ZooKeeper feeds Gerald the Gorilla | Gerald the Gorilla is eating.
+Zach the ZooKeeper feeds Gavin the Gorilla | Gavin the Gorilla is eating.
+Zach the ZooKeeper feeds Perry the Platypus | Perry the Platypus is eating.
+Zach the ZooKeeper feeds Patrick the Platypus | Patrick the Platypus is eating.
+Zach the ZooKeeper feeds Ellie the Elephant | Ellie the Elephant is eating.
+Zach the ZooKeeper feeds Elijah the Elephant | Elijah the Elephant is eating.
+Zach the ZooKeeper feeds Harry the Hippo | Harry the Hippo is eating.
+Zach the ZooKeeper feeds Hermione the Hippo | Hermione the Hippo is eating.
+Zach the ZooKeeper feeds Rick the Rhino | Rick the Rhino is eating.
+Zach the ZooKeeper feeds Rainey the Rhino | Rainey the Rhino is eating.
+Bao the ZooAnnouncer says, The Zookeeper is about to excercise the animals!
+Zach the ZooKeeper excercises Charles the Cat |  Charles the Cat roams
+Zach the ZooKeeper excercises Cole the Cat |  Cole the Cat roams
+Zach the ZooKeeper excercises Larry the Lion |  Larry the Lion roams
+Zach the ZooKeeper excercises Luke the Lion |  Luke the Lion roams
+Zach the ZooKeeper excercises Tigger the Tiger |  Tigger the Tiger roams
+Zach the ZooKeeper excercises Travis the Tiger |  Travis the Tiger roams
+Zach the ZooKeeper excercises Doug the Dog |  Doug the dog is roaming.
+Zach the ZooKeeper excercises Dale the Dog |  Dale the dog is digging.
+Zach the ZooKeeper excercises William the Wolf |  William the Wolf roams
+Zach the ZooKeeper excercises Whitney the Wolf |  Whitney the Wolf roams
+Zach the ZooKeeper excercises Gerald the Gorilla |  Gerald the Gorilla roams
+Zach the ZooKeeper excercises Gavin the Gorilla |  Gavin the Gorilla roams
+Zach the ZooKeeper excercises Perry the Platypus |  Perry the Platypus roams
+Zach the ZooKeeper excercises Patrick the Platypus |  Patrick the Platypus roams
+Zach the ZooKeeper excercises Ellie the Elephant |  Ellie the Elephant charges.
+Zach the ZooKeeper excercises Elijah the Elephant |  Elijah the pachyderm roams.
+Zach the ZooKeeper excercises Harry the Hippo |  Harry the pachyderm roams.
+Zach the ZooKeeper excercises Hermione the Hippo |  Hermione the pachyderm roams.
+Zach the ZooKeeper excercises Rick the Rhino |  Rick the pachyderm roams.
+Zach the ZooKeeper excercises Rainey the Rhino |  Rainey the pachyderm roams.
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1200 
+TIME (military): 1300 
+TIME (military): 1400 
+TIME (military): 1500 
+TIME (military): 1600 
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1700 
+TIME (military): 1800 
+Bao the ZooAnnouncer says, The Zookeeper is about to make the animals sleep!
+Zach the ZooKeeper to puts Charles the Cat to sleep |  Charles the Cat sleeps
+Zach the ZooKeeper to puts Cole the Cat to sleep |  Cole the Cat sleeps
+Zach the ZooKeeper to puts Larry the Lion to sleep |  Larry the Lion sleeps
+Zach the ZooKeeper to puts Luke the Lion to sleep |  Luke the Lion sleeps
+Zach the ZooKeeper to puts Tigger the Tiger to sleep |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper to puts Travis the Tiger to sleep |  Travis the Tiger makes no noise.
+Zach the ZooKeeper to puts Doug the Dog to sleep |  Doug the Dog sleeps
+Zach the ZooKeeper to puts Dale the Dog to sleep |  Dale the Dog sleeps
+Zach the ZooKeeper to puts William the Wolf to sleep |  William the Wolf sleeps
+Zach the ZooKeeper to puts Whitney the Wolf to sleep |  Whitney the Wolf sleeps
+Zach the ZooKeeper to puts Gerald the Gorilla to sleep |  Gerald the Gorilla sleeps
+Zach the ZooKeeper to puts Gavin the Gorilla to sleep |  Gavin the Gorilla sleeps
+Zach the ZooKeeper to puts Perry the Platypus to sleep |  Perry the Platypus sleeps
+Zach the ZooKeeper to puts Patrick the Platypus to sleep |  Patrick the Platypus sleeps
+Zach the ZooKeeper to puts Ellie the Elephant to sleep |  Ellie the Elephant sleeps
+Zach the ZooKeeper to puts Elijah the Elephant to sleep |  Elijah the Elephant sleeps
+Zach the ZooKeeper to puts Harry the Hippo to sleep |  Harry the Hippo sleeps
+Zach the ZooKeeper to puts Hermione the Hippo to sleep |  Hermione the Hippo sleeps
+Zach the ZooKeeper to puts Rick the Rhino to sleep |  Rick the Rhino sleeps
+Zach the ZooKeeper to puts Rainey the Rhino to sleep |  Rainey the Rhino sleeps
+TIME (military): 1900 
+TIME (military): 2000 
+Zach the ZooKeeper is leaving the zoo for the day.
+Jon the ZooFoodEmployee is leaving the zoo for the day.
+Bao the ZooAnnouncer is leaving the zoo for the day.
+TIME (military): 2100 
+---------------------------------------
+DAY 6 AT THE ZOO!
+---------------------------------------
+Zach the ZooKeeper is arriving at the zoo.
+Jon the ZooFoodEmployee is arriving at the zoo.
+Bao the ZooAnnouncer is arriving at the zoo.
+TIME (military): 800 
+Bao the ZooAnnouncer says, The Zookeeper is about to wake up the animals!
+Zach the ZooKeeper wakes up the animal Charles the Cat |  Charles the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Cole the Cat |  Cole the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Larry the Lion |  Larry the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Luke the Lion |  Luke the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Tigger the Tiger |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Travis the Tiger |  Travis the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Doug the Dog |  Doug the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal Dale the Dog |  Dale the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal William the Wolf |  William the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Whitney the Wolf |  Whitney the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Gerald the Gorilla |  Gerald the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Gavin the Gorilla |  Gavin the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Perry the Platypus |  Perry the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Patrick the Platypus |  Patrick the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Ellie the Elephant |  Ellie the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Elijah the Elephant |  Elijah the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Harry the Hippo |  Harry the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Hermione the Hippo |  Hermione the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rick the Rhino |  Rick the Rhino makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rainey the Rhino |  Rainey the Rhino makes a loud noise.
+Bao the ZooAnnouncer says, The Zookeeper is about to role call the animals!
+Zach the ZooKeeper roll calls for Charles the Cat  | Charles is here!
+Zach the ZooKeeper roll calls for Cole the Cat  | Cole is here!
+Zach the ZooKeeper roll calls for Larry the Lion  | Larry is here!
+Zach the ZooKeeper roll calls for Luke the Lion  | Luke is here!
+Zach the ZooKeeper roll calls for Tigger the Tiger  | Tigger is here!
+Zach the ZooKeeper roll calls for Travis the Tiger  | Travis is here!
+Zach the ZooKeeper roll calls for Doug the Dog  | Doug is here!
+Zach the ZooKeeper roll calls for Dale the Dog  | Dale is here!
+Zach the ZooKeeper roll calls for William the Wolf  | William is here!
+Zach the ZooKeeper roll calls for Whitney the Wolf  | Whitney is here!
+Zach the ZooKeeper roll calls for Gerald the Gorilla  | Gerald is here!
+Zach the ZooKeeper roll calls for Gavin the Gorilla  | Gavin is here!
+Zach the ZooKeeper roll calls for Perry the Platypus  | Perry is here!
+Zach the ZooKeeper roll calls for Patrick the Platypus  | Patrick is here!
+Zach the ZooKeeper roll calls for Ellie the Elephant  | Ellie is here!
+Zach the ZooKeeper roll calls for Elijah the Elephant  | Elijah is here!
+Zach the ZooKeeper roll calls for Harry the Hippo  | Harry is here!
+Zach the ZooKeeper roll calls for Hermione the Hippo  | Hermione is here!
+Zach the ZooKeeper roll calls for Rick the Rhino  | Rick is here!
+Zach the ZooKeeper roll calls for Rainey the Rhino  | Rainey is here!
+TIME (military): 900 
+TIME (military): 1000 
+TIME (military): 1100 
+Bao the ZooAnnouncer says, The Zookeeper is about to feed the animals!
+Zach the ZooKeeper feeds Charles the Cat | Charles the Cat is eating.
+Zach the ZooKeeper feeds Cole the Cat | Cole the Cat is eating.
+Zach the ZooKeeper feeds Larry the Lion | Larry the Lion is eating.
+Zach the ZooKeeper feeds Luke the Lion | Luke the Lion is eating.
+Zach the ZooKeeper feeds Tigger the Tiger | Tigger the Tiger is eating.
+Zach the ZooKeeper feeds Travis the Tiger | Travis the Tiger is eating.
+Zach the ZooKeeper feeds Doug the Dog | Doug the Dog is eating.
+Zach the ZooKeeper feeds Dale the Dog | Dale the Dog is eating.
+Zach the ZooKeeper feeds William the Wolf | William the Wolf is eating.
+Zach the ZooKeeper feeds Whitney the Wolf | Whitney the Wolf is eating.
+Zach the ZooKeeper feeds Gerald the Gorilla | Gerald the Gorilla is eating.
+Zach the ZooKeeper feeds Gavin the Gorilla | Gavin the Gorilla is eating.
+Zach the ZooKeeper feeds Perry the Platypus | Perry the Platypus is eating.
+Zach the ZooKeeper feeds Patrick the Platypus | Patrick the Platypus is eating.
+Zach the ZooKeeper feeds Ellie the Elephant | Ellie the Elephant is eating.
+Zach the ZooKeeper feeds Elijah the Elephant | Elijah the Elephant is eating.
+Zach the ZooKeeper feeds Harry the Hippo | Harry the Hippo is eating.
+Zach the ZooKeeper feeds Hermione the Hippo | Hermione the Hippo is eating.
+Zach the ZooKeeper feeds Rick the Rhino | Rick the Rhino is eating.
+Zach the ZooKeeper feeds Rainey the Rhino | Rainey the Rhino is eating.
+Bao the ZooAnnouncer says, The Zookeeper is about to excercise the animals!
+Zach the ZooKeeper excercises Charles the Cat |  Charles the Cat roams
+Zach the ZooKeeper excercises Cole the Cat |  Cole the Cat roams
+Zach the ZooKeeper excercises Larry the Lion |  Larry the Lion roams
+Zach the ZooKeeper excercises Luke the Lion |  Luke the Lion roams
+Zach the ZooKeeper excercises Tigger the Tiger |  Tigger the Tiger roams
+Zach the ZooKeeper excercises Travis the Tiger |  Travis the Tiger roams
+Zach the ZooKeeper excercises Doug the Dog |  Doug the dog is roaming.
+Zach the ZooKeeper excercises Dale the Dog |  Dale the dog is digging.
+Zach the ZooKeeper excercises William the Wolf |  William the Wolf roams
+Zach the ZooKeeper excercises Whitney the Wolf |  Whitney the Wolf roams
+Zach the ZooKeeper excercises Gerald the Gorilla |  Gerald the Gorilla roams
+Zach the ZooKeeper excercises Gavin the Gorilla |  Gavin the Gorilla roams
+Zach the ZooKeeper excercises Perry the Platypus |  Perry the Platypus roams
+Zach the ZooKeeper excercises Patrick the Platypus |  Patrick the Platypus roams
+Zach the ZooKeeper excercises Ellie the Elephant |  Ellie the pachyderm roams.
+Zach the ZooKeeper excercises Elijah the Elephant |  Elijah the pachyderm roams.
+Zach the ZooKeeper excercises Harry the Hippo |  Harry the pachyderm roams.
+Zach the ZooKeeper excercises Hermione the Hippo |  Hermione the pachyderm roams.
+Zach the ZooKeeper excercises Rick the Rhino |  Rick the pachyderm roams.
+Zach the ZooKeeper excercises Rainey the Rhino |  Rainey the Rhino charges.
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1200 
+TIME (military): 1300 
+TIME (military): 1400 
+TIME (military): 1500 
+TIME (military): 1600 
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1700 
+TIME (military): 1800 
+Bao the ZooAnnouncer says, The Zookeeper is about to make the animals sleep!
+Zach the ZooKeeper to puts Charles the Cat to sleep |  Charles the Cat sleeps
+Zach the ZooKeeper to puts Cole the Cat to sleep |  Cole the Cat sleeps
+Zach the ZooKeeper to puts Larry the Lion to sleep |  Larry the Lion sleeps
+Zach the ZooKeeper to puts Luke the Lion to sleep |  Luke the Lion sleeps
+Zach the ZooKeeper to puts Tigger the Tiger to sleep |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper to puts Travis the Tiger to sleep |  Travis the Tiger makes no noise.
+Zach the ZooKeeper to puts Doug the Dog to sleep |  Doug the Dog sleeps
+Zach the ZooKeeper to puts Dale the Dog to sleep |  Dale the Dog sleeps
+Zach the ZooKeeper to puts William the Wolf to sleep |  William the Wolf sleeps
+Zach the ZooKeeper to puts Whitney the Wolf to sleep |  Whitney the Wolf sleeps
+Zach the ZooKeeper to puts Gerald the Gorilla to sleep |  Gerald the Gorilla sleeps
+Zach the ZooKeeper to puts Gavin the Gorilla to sleep |  Gavin the Gorilla sleeps
+Zach the ZooKeeper to puts Perry the Platypus to sleep |  Perry the Platypus sleeps
+Zach the ZooKeeper to puts Patrick the Platypus to sleep |  Patrick the Platypus sleeps
+Zach the ZooKeeper to puts Ellie the Elephant to sleep |  Ellie the Elephant sleeps
+Zach the ZooKeeper to puts Elijah the Elephant to sleep |  Elijah the Elephant sleeps
+Zach the ZooKeeper to puts Harry the Hippo to sleep |  Harry the Hippo sleeps
+Zach the ZooKeeper to puts Hermione the Hippo to sleep |  Hermione the Hippo sleeps
+Zach the ZooKeeper to puts Rick the Rhino to sleep |  Rick the Rhino sleeps
+Zach the ZooKeeper to puts Rainey the Rhino to sleep |  Rainey the Rhino sleeps
+TIME (military): 1900 
+TIME (military): 2000 
+Zach the ZooKeeper is leaving the zoo for the day.
+Jon the ZooFoodEmployee is leaving the zoo for the day.
+Bao the ZooAnnouncer is leaving the zoo for the day.
+TIME (military): 2100 
+---------------------------------------
+DAY 7 AT THE ZOO!
+---------------------------------------
+Zach the ZooKeeper is arriving at the zoo.
+Jon the ZooFoodEmployee is arriving at the zoo.
+Bao the ZooAnnouncer is arriving at the zoo.
+TIME (military): 800 
+Bao the ZooAnnouncer says, The Zookeeper is about to wake up the animals!
+Zach the ZooKeeper wakes up the animal Charles the Cat |  Charles the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Cole the Cat |  Cole the Cat makes no noise.
+Zach the ZooKeeper wakes up the animal Larry the Lion |  Larry the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Luke the Lion |  Luke the Lion makes no noise.
+Zach the ZooKeeper wakes up the animal Tigger the Tiger |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Travis the Tiger |  Travis the Tiger makes no noise.
+Zach the ZooKeeper wakes up the animal Doug the Dog |  Doug the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal Dale the Dog |  Dale the Dog makes a loud noise.
+Zach the ZooKeeper wakes up the animal William the Wolf |  William the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Whitney the Wolf |  Whitney the Wolf makes a loud noise.
+Zach the ZooKeeper wakes up the animal Gerald the Gorilla |  Gerald the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Gavin the Gorilla |  Gavin the Gorilla  makes a quiet.
+Zach the ZooKeeper wakes up the animal Perry the Platypus |  Perry the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Patrick the Platypus |  Patrick the Platypus  makes a quiet.
+Zach the ZooKeeper wakes up the animal Ellie the Elephant |  Ellie the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Elijah the Elephant |  Elijah the Elephant makes a loud noise.
+Zach the ZooKeeper wakes up the animal Harry the Hippo |  Harry the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Hermione the Hippo |  Hermione the Hippo makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rick the Rhino |  Rick the Rhino makes a loud noise.
+Zach the ZooKeeper wakes up the animal Rainey the Rhino |  Rainey the Rhino makes a loud noise.
+Bao the ZooAnnouncer says, The Zookeeper is about to role call the animals!
+Zach the ZooKeeper roll calls for Charles the Cat  | Charles is here!
+Zach the ZooKeeper roll calls for Cole the Cat  | Cole is here!
+Zach the ZooKeeper roll calls for Larry the Lion  | Larry is here!
+Zach the ZooKeeper roll calls for Luke the Lion  | Luke is here!
+Zach the ZooKeeper roll calls for Tigger the Tiger  | Tigger is here!
+Zach the ZooKeeper roll calls for Travis the Tiger  | Travis is here!
+Zach the ZooKeeper roll calls for Doug the Dog  | Doug is here!
+Zach the ZooKeeper roll calls for Dale the Dog  | Dale is here!
+Zach the ZooKeeper roll calls for William the Wolf  | William is here!
+Zach the ZooKeeper roll calls for Whitney the Wolf  | Whitney is here!
+Zach the ZooKeeper roll calls for Gerald the Gorilla  | Gerald is here!
+Zach the ZooKeeper roll calls for Gavin the Gorilla  | Gavin is here!
+Zach the ZooKeeper roll calls for Perry the Platypus  | Perry is here!
+Zach the ZooKeeper roll calls for Patrick the Platypus  | Patrick is here!
+Zach the ZooKeeper roll calls for Ellie the Elephant  | Ellie is here!
+Zach the ZooKeeper roll calls for Elijah the Elephant  | Elijah is here!
+Zach the ZooKeeper roll calls for Harry the Hippo  | Harry is here!
+Zach the ZooKeeper roll calls for Hermione the Hippo  | Hermione is here!
+Zach the ZooKeeper roll calls for Rick the Rhino  | Rick is here!
+Zach the ZooKeeper roll calls for Rainey the Rhino  | Rainey is here!
+TIME (military): 900 
+TIME (military): 1000 
+TIME (military): 1100 
+Bao the ZooAnnouncer says, The Zookeeper is about to feed the animals!
+Zach the ZooKeeper feeds Charles the Cat | Charles the Cat is eating.
+Zach the ZooKeeper feeds Cole the Cat | Cole the Cat is eating.
+Zach the ZooKeeper feeds Larry the Lion | Larry the Lion is eating.
+Zach the ZooKeeper feeds Luke the Lion | Luke the Lion is eating.
+Zach the ZooKeeper feeds Tigger the Tiger | Tigger the Tiger is eating.
+Zach the ZooKeeper feeds Travis the Tiger | Travis the Tiger is eating.
+Zach the ZooKeeper feeds Doug the Dog | Doug the Dog is eating.
+Zach the ZooKeeper feeds Dale the Dog | Dale the Dog is eating.
+Zach the ZooKeeper feeds William the Wolf | William the Wolf is eating.
+Zach the ZooKeeper feeds Whitney the Wolf | Whitney the Wolf is eating.
+Zach the ZooKeeper feeds Gerald the Gorilla | Gerald the Gorilla is eating.
+Zach the ZooKeeper feeds Gavin the Gorilla | Gavin the Gorilla is eating.
+Zach the ZooKeeper feeds Perry the Platypus | Perry the Platypus is eating.
+Zach the ZooKeeper feeds Patrick the Platypus | Patrick the Platypus is eating.
+Zach the ZooKeeper feeds Ellie the Elephant | Ellie the Elephant is eating.
+Zach the ZooKeeper feeds Elijah the Elephant | Elijah the Elephant is eating.
+Zach the ZooKeeper feeds Harry the Hippo | Harry the Hippo is eating.
+Zach the ZooKeeper feeds Hermione the Hippo | Hermione the Hippo is eating.
+Zach the ZooKeeper feeds Rick the Rhino | Rick the Rhino is eating.
+Zach the ZooKeeper feeds Rainey the Rhino | Rainey the Rhino is eating.
+Bao the ZooAnnouncer says, The Zookeeper is about to excercise the animals!
+Zach the ZooKeeper excercises Charles the Cat |  Charles the Cat roams
+Zach the ZooKeeper excercises Cole the Cat |  Cole the Cat roams
+Zach the ZooKeeper excercises Larry the Lion |  Larry the Lion roams
+Zach the ZooKeeper excercises Luke the Lion |  Luke the Lion roams
+Zach the ZooKeeper excercises Tigger the Tiger |  Tigger the Tiger roams
+Zach the ZooKeeper excercises Travis the Tiger |  Travis the Tiger roams
+Zach the ZooKeeper excercises Doug the Dog |  Doug the dog is roaming.
+Zach the ZooKeeper excercises Dale the Dog |  Dale the dog is roaming.
+Zach the ZooKeeper excercises William the Wolf |  William the Wolf roams
+Zach the ZooKeeper excercises Whitney the Wolf |  Whitney the Wolf roams
+Zach the ZooKeeper excercises Gerald the Gorilla |  Gerald the Gorilla roams
+Zach the ZooKeeper excercises Gavin the Gorilla |  Gavin the Gorilla roams
+Zach the ZooKeeper excercises Perry the Platypus |  Perry the Platypus roams
+Zach the ZooKeeper excercises Patrick the Platypus |  Patrick the Platypus roams
+Zach the ZooKeeper excercises Ellie the Elephant |  Ellie the pachyderm roams.
+Zach the ZooKeeper excercises Elijah the Elephant |  Elijah the pachyderm roams.
+Zach the ZooKeeper excercises Harry the Hippo |  Harry the pachyderm roams.
+Zach the ZooKeeper excercises Hermione the Hippo |  Hermione the pachyderm roams.
+Zach the ZooKeeper excercises Rick the Rhino |  Rick the pachyderm roams.
+Zach the ZooKeeper excercises Rainey the Rhino |  Rainey the pachyderm roams.
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1200 
+TIME (military): 1300 
+TIME (military): 1400 
+TIME (military): 1500 
+TIME (military): 1600 
+Jon the ZooFoodEmployee is making food for the zoo.
+Jon the ZooFoodEmployee is serving food at the zoo.
+Jon the ZooFoodEmployee is cleaning up the kitchen.
+TIME (military): 1700 
+TIME (military): 1800 
+Bao the ZooAnnouncer says, The Zookeeper is about to make the animals sleep!
+Zach the ZooKeeper to puts Charles the Cat to sleep |  Charles the Cat sleeps
+Zach the ZooKeeper to puts Cole the Cat to sleep |  Cole the Cat sleeps
+Zach the ZooKeeper to puts Larry the Lion to sleep |  Larry the Lion sleeps
+Zach the ZooKeeper to puts Luke the Lion to sleep |  Luke the Lion sleeps
+Zach the ZooKeeper to puts Tigger the Tiger to sleep |  Tigger the Tiger makes no noise.
+Zach the ZooKeeper to puts Travis the Tiger to sleep |  Travis the Tiger makes no noise.
+Zach the ZooKeeper to puts Doug the Dog to sleep |  Doug the Dog sleeps
+Zach the ZooKeeper to puts Dale the Dog to sleep |  Dale the Dog sleeps
+Zach the ZooKeeper to puts William the Wolf to sleep |  William the Wolf sleeps
+Zach the ZooKeeper to puts Whitney the Wolf to sleep |  Whitney the Wolf sleeps
+Zach the ZooKeeper to puts Gerald the Gorilla to sleep |  Gerald the Gorilla sleeps
+Zach the ZooKeeper to puts Gavin the Gorilla to sleep |  Gavin the Gorilla sleeps
+Zach the ZooKeeper to puts Perry the Platypus to sleep |  Perry the Platypus sleeps
+Zach the ZooKeeper to puts Patrick the Platypus to sleep |  Patrick the Platypus sleeps
+Zach the ZooKeeper to puts Ellie the Elephant to sleep |  Ellie the Elephant sleeps
+Zach the ZooKeeper to puts Elijah the Elephant to sleep |  Elijah the Elephant sleeps
+Zach the ZooKeeper to puts Harry the Hippo to sleep |  Harry the Hippo sleeps
+Zach the ZooKeeper to puts Hermione the Hippo to sleep |  Hermione the Hippo sleeps
+Zach the ZooKeeper to puts Rick the Rhino to sleep |  Rick the Rhino sleeps
+Zach the ZooKeeper to puts Rainey the Rhino to sleep |  Rainey the Rhino sleeps
+TIME (military): 1900 
+TIME (military): 2000 
+Zach the ZooKeeper is leaving the zoo for the day.
+Jon the ZooFoodEmployee is leaving the zoo for the day.
+Bao the ZooAnnouncer is leaving the zoo for the day.
+TIME (military): 2100 
