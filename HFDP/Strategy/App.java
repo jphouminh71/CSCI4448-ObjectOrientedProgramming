@@ -1,8 +1,7 @@
-package Behavioral;
-import Behavioral.Ducks.*; 
-
-import Behavioral.FlyBehavior.*;
-import Behavioral.QuackBehavior.*;
+package Strategy;
+import Strategy.Ducks.*;
+import Strategy.FlyBehavior.*;
+import Strategy.QuackBehavior.*;
 
 public class App {
     public App() {}  // empty constructor 

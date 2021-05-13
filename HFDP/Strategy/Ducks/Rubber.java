@@ -1,7 +1,7 @@
-package Behavioral.Ducks;
+package Strategy.Ducks;
 
-import Behavioral.FlyBehavior.*;
-import Behavioral.QuackBehavior.*;
+import Strategy.FlyBehavior.*;
+import Strategy.QuackBehavior.*;
 
 public class Rubber extends Duck {
     public Rubber() {

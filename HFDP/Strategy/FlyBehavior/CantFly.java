@@ -1,4 +1,4 @@
-package Behavioral.FlyBehavior;
+package Strategy.FlyBehavior;
 
 public class CantFly implements FlyBehavior {
     public void fly() {

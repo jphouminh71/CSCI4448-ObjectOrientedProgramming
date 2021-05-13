@@ -1,8 +1,7 @@
-package Behavioral.Ducks;
+package Strategy.Ducks;
 
-// importing the behaviors, we can use any of them for the mallard now 
-import Behavioral.FlyBehavior.*;
-import Behavioral.QuackBehavior.*;
+import Strategy.FlyBehavior.*;
+import Strategy.QuackBehavior.*;
 
 
 public class Mallard extends Duck{

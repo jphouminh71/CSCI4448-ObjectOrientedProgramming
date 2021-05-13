@@ -1,7 +1,7 @@
-package Behavioral.Ducks;
+package Strategy.Ducks;
 
-import Behavioral.FlyBehavior.*;
-import Behavioral.QuackBehavior.*;
+import Strategy.FlyBehavior.*;
+import Strategy.QuackBehavior.*;
 
 // This class demonstrates how you could set behaviors dynamically 
 // it will initially not be able to fly and will quack
