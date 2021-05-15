@@ -11,6 +11,9 @@
 ### "Delegation is favored over inheritance."
 * Not only does it let you encapsulate a family of algorithms into their own set of classes, but it also lets you change behavior at runtime. 
 
+### Open Closed Principle
+* Classes should be open to extension, but closed for modification
+
 <br>
 
 ## Interface vs Abstract Classes
@@ -44,8 +47,11 @@ Consider using **interfaces** if any of these statements apply to your situation
 
 ## Observer Pattern 
 --- 
-
 * Allows objects to keep other objects informed about events occurring within a software system (can be dynamically assigned). If the Subject is changed then all the observers are notified. If needed then an observer may query for information 
+<br>
 
+## Decorator Pattern
+---
+* This pattern provides a powerful mechanism for adding new behaviors to an object at runtime. This mechanism is based on the foundation of 'wrapping'. The difference is not as decoupled as the strategy pattern. 
 
-
+* 
