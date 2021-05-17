@@ -89,3 +89,34 @@ Consider using **interfaces** if any of these statements apply to your situation
 <br>
 
  Typical we see singleton in object pools such as thread pools! 
+<br>
+
+## Command Pattern
+--- 
+1. Start at Client
+2. **Client** Object - CreateCommandObject() - a Request
+    - Command_Object knows
+        - Who is the target reciever
+        - What actions do I need the Receiver to execture (**Reciever Methods**)
+3. **Command_Object** - defines Execute()
+    - Command.Execute() will be called to invoke specified Receiver actions
+4. **Invoker** - Command_Object.Execute()
+    - The Invoker calls Command_Object.Execute()...
+    - What the timing is of executing that command may vary (thread safety needs consideration)
+5. **Receiver** executes the Receiver actions in the Command_Object whe the Invoker says to 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
