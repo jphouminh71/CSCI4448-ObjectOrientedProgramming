@@ -21,6 +21,9 @@
     - Override abstract methods
     - If it's implemented in the base class, it's mean to be used by subclasses 
 
+### Single Responsibiliy Principle
+* Each class should only be responsible for one thing. Ask yourself, "Does adding this method or attribute concern the task this class is built to handle?"
+
 <br>
 
 ## Interface vs Abstract Classes
@@ -72,4 +75,17 @@ Consider using **interfaces** if any of these statements apply to your situation
 * Normally "high-level" classes depend on "low-level" classes. Instead, they BOTH should depend on an abstract interface. 
 <br>
 
-## 
+## Singleton Pattern
+---
+* Used to ensure that only on instance of a particular class ever gets created and that there is just one (global) way to gain access to that instance 
+* Provides a global access point. (Kind of bad because using global variables causing thread safety issues)
+* Consider alternatives for multithreading uses. 
+
+#### Components of Singleton
+- private constructor
+- private static instance variable to store the single instance
+- public static method to gain access to that instance
+- this method creates object if needed; returns it 
+<br>
+
+ Typical we see singleton in object pools such as thread pools! 
