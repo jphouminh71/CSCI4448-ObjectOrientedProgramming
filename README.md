@@ -14,6 +14,13 @@
 ### Open Closed Principle
 * Classes should be open to extension, but closed for modification
 
+### Guidelines for Dependency Inversion Principle
+* No variable should hold a reference to a concrete class.
+* No class should derive from a concrete class. (Should derive from interfaces and abstract classes)
+* No method should override an implemented method of a base class. 
+    - Override abstract methods
+    - If it's implemented in the base class, it's mean to be used by subclasses 
+
 <br>
 
 ## Interface vs Abstract Classes
@@ -41,17 +48,28 @@ Consider using **interfaces** if any of these statements apply to your situation
 
 * Allows you to encapsulate different behaviors or Algorithms that can be dynamically swapped for an object to use. By creating a delegate to different algorithms and behaviors it decouples the need to refactor specific classes that use the same algorithms / behaviors. 
 
-"We could have just as easily use the same techniques for a set of classes that implement the different ways to compute sales tax for each state".  <br>
-* States are the "Ducks" 
-* Tax Computation Algorithms are the different ways the "duck" can "Fly" 
-
+"We could have just as easily use the same techniques for a set of classes that implement the different ways to compute sales tax for each state". 
+    Ex. States are the "Ducks" , Tax Computation Algorithms are the different ways the "duck" can "Fly" 
+<br><br>
 ## Observer Pattern 
 --- 
 * Allows objects to keep other objects informed about events occurring within a software system (can be dynamically assigned). If the Subject is changed then all the observers are notified. If needed then an observer may query for information 
+
+    Ex. Have a Global Clock class that will notify all observers when certain times hit. Or Having a service notify all all components when new data is recieved
 <br>
 
 ## Decorator Pattern
 ---
 * This pattern provides a powerful mechanism for adding new behaviors to an object at runtime. This mechanism is based on the foundation of 'wrapping'. The difference is not as decoupled as the strategy pattern. 
 
-* 
+    Ex. Making a Starbucks Service and wrapping each base drink with condiments.
+<br>
+
+## Factory Pattern (Simple / Abstract)
+--- 
+* Factory Method is one way of following the dependency inversion principle - one of the OO principles. 
+* "Depend upon abstractions. Do not depend upon concrete classes." 
+* Normally "high-level" classes depend on "low-level" classes. Instead, they BOTH should depend on an abstract interface. 
+<br>
+
+## 
