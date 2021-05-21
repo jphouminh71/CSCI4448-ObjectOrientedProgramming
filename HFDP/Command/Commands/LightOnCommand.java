@@ -3,6 +3,9 @@ package Command.Commands;
 import Command.Command;
 import Command.Recievers.*;
 
+// NOTE: In this implementation you are 'flipping' a switch and therefore both interactions are happening on a single button.
+// Too handle different methods for the Light you should create separate Command objects for the actions
+// LightOffCommand.java , etc...
 public class LightOnCommand implements Command {
     Light light; // reference to the command Reciever
 

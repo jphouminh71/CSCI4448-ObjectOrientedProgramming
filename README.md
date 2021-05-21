@@ -104,7 +104,19 @@ Consider using **interfaces** if any of these statements apply to your situation
     - The Invoker calls Command_Object.Execute()...
     - What the timing is of executing that command may vary (thread safety needs consideration)
 5. **Receiver** executes the Receiver actions in the Command_Object whe the Invoker says to 
+<br>
 
+## Facade Pattern
+---
+"Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that maeks the subsystem easier to use."
+* Facade works best when you are accessing a subset of the subsystem's functionality
+    - You can also add new features by adding it to the Facade (not the subsystem); you still get a simpler interface
+* Facade not only reduces the number of methods you are dealing with but also the number of classes and also decouples a client from a subsystem of components.
+
+<br>
+
+## Adapter Pattern
+--- 
 
 
 
