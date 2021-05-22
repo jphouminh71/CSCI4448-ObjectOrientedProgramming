@@ -113,10 +113,20 @@ Consider using **interfaces** if any of these statements apply to your situation
     - You can also add new features by adding it to the Facade (not the subsystem); you still get a simpler interface
 * Facade not only reduces the number of methods you are dealing with but also the number of classes and also decouples a client from a subsystem of components.
 
+* Essentially its just encapsualtion on a large sub-system that makes it easier for the client to interact with. 
+
+Facade works best when you are accessing a subset of the subsystem's functionality aka you don't need to use the helper methods.
+
 <br>
 
 ## Adapter Pattern
 --- 
+The adapter pattern provides steps for converting an incompatible interface with an existing system into a different interface that is compatiable. 
+
+Adapter letes classes work together that couldn't otherwise because of incompatible interfaces. 
+ - the client makes a request on the adapter by invoking a method from the target interfave on it
+ - the adapter translates that request into one or more calls on the adaptee using the adaptee interface 
+ - the client recieves the results of the call and never knows there is an adapter doing the translation 
 
 
 
