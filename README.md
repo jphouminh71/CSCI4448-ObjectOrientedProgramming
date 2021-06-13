@@ -24,6 +24,11 @@
 ### Single Responsibiliy Principle
 * Each class should only be responsible for one thing. Ask yourself, "Does adding this method or attribute concern the task this class is built to handle?"
 
+### Hollywood Principle
+" Dont call us, we'll call you " 
+* High level components will call low level components and not the other way around. This is similar to the the depedency inversion principle where we rely on abstractions and not concrete classes. 
+
+
 <br>
 
 ## Interface vs Abstract Classes
@@ -129,7 +134,25 @@ Adapter letes classes work together that couldn't otherwise because of incompati
  - the client recieves the results of the call and never knows there is an adapter doing the translation 
 
 
+## Template Pattern
+--- 
 
+Templates are used to encapsulate algorithm implementations. 
+
+* Defines the skeleton of an algorithm without changing the algirhtms structure
+* Each step of the algorith mis represented by a method
+* Encapsualtes the details of the general steps. The special steps are abstracted for the subclasses to implement
+
+We try to make steps of an algorithm more abstract and specified its structure in the superclass. 
+
+You will see the Template method used a lot for creating design frameworks. The framework will speicfy how something should be done and framework adopters can provide implementations of their own. 
+
+**Template vs Strategy**: Template focuses on ecapsulating specific steps of algorithsm where strategy focuses on encapsulating entirely different algorithms. 
+
+
+
+
+<br><br><br>
 
 
 
