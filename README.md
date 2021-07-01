@@ -24,6 +24,14 @@
 ### Single Responsibiliy Principle
 * Each class should only be responsible for one thing. Ask yourself, "Does adding this method or attribute concern the task this class is built to handle?"
 
+
+### Hollywood Principle 
+* "Dont call us we will call you"
+
+This design principle states that we want our high-level components to call low-level components, not the other way around. Kind of like how in react you pass down props to children for them to do their work. 
+
+This principle reiterates the dependency inversion principle: "Depend on abstractions, not concrete classes." 
+
 <br>
 
 ## Interface vs Abstract Classes
@@ -123,10 +131,76 @@ Facade works best when you are accessing a subset of the subsystem's functionali
 --- 
 The adapter pattern provides steps for converting an incompatible interface with an existing system into a different interface that is compatiable. 
 
-Adapter letes classes work together that couldn't otherwise because of incompatible interfaces. 
- - the client makes a request on the adapter by invoking a method from the target interfave on it
+Adapter lets classes work together that couldn't otherwise because of incompatible interfaces. 
+ - the client makes a request on the adapter by invoking a method from the target interface on it
  - the adapter translates that request into one or more calls on the adaptee using the adaptee interface 
  - the client recieves the results of the call and never knows there is an adapter doing the translation 
+
+<br>
+
+ ## Template Pattern 
+ ----
+Recall that encapsualtion should be thought of as "any kind of hiding" especially the hiding of "things that can change". We can hide data but also 
+
+- methods, objects, type, behavior, implementations, design details, etc. 
+
+Templates encapsulate algorithm implementations. It defines the skeleton of an algorithm in a method, deffering some steps to be implmeented by the subclasses.
+
+1. Make the algorithm abstract
+2. Each step of the algorithm is represented by a method
+3. Ecapsulates the details of most steps in the subclasses. 
+
+<br>
+
+## Iterator Pattern
+--- 
+
+<em> Iterator issue is best demonstrated through code </em>
+
+In this example we see the iterations are doing the same exact thing, but implemented differently
+```
+// Inconsistency Issue
+for (int i = 0; i < lunchItems.length; i++) {
+    MenuItem menuItem = lunchItems[i]; 
+}
+
+for (int i = 0; i < breakfastItems.size(); i++) {
+    MenuItem menuItem = breakfastItems.get(i)
+}
+```
+<em> The Solution </em>: Make an object that iterates any iterable object in a standard way. 
+
+```
+// ask breafast menu for an iterator of its breakfast items
+Iterator iterator = breakfastMenu.createIterator(); 
+
+while (iterator.hasNext()) {
+    MenuItem menuItem = iterator.next(); 
+}
+
+Iterator iterator = lunchMenu.createIterator(); 
+
+while (iterator.hasNext()) {
+    MenuItem menuItem = iterator.next();
+}
+```
+
+Iterators come pre-baked in with Java so as long as its a set of iterable objects. Vectors, LinkedLists, Stacks, Priority-Queues, etc. 
+ 
+**Main Points**
+
+1. Takes the job of iterating over an aggregate and encapsulates it in another object, ex having an iterator that does dfs or bfs in a tree or graph
+2. When using an iterator, we relieve the aggregate of the responsiblly of supporting operations for traversing its data. 
+3. Iterators provide common interfaces fro traversing the items of an aggregate. 
+4. Removes duplication of iteration code
+
+**note**: Can be overkill for simpler applications. 
+<br>
+
+## Composite Pattern
+---
+
+Intent: Allows 
 
 
 
