@@ -24,7 +24,6 @@
 ### Single Responsibiliy Principle
 * Each class should only be responsible for one thing. Ask yourself, "Does adding this method or attribute concern the task this class is built to handle?"
 
-<<<<<<< HEAD
 
 ### Hollywood Principle 
 * "Dont call us we will call you"
@@ -32,12 +31,6 @@
 This design principle states that we want our high-level components to call low-level components, not the other way around. Kind of like how in react you pass down props to children for them to do their work. 
 
 This principle reiterates the dependency inversion principle: "Depend on abstractions, not concrete classes." 
-=======
-### Hollywood Principle
-" Dont call us, we'll call you " 
-* High level components will call low level components and not the other way around. This is similar to the the depedency inversion principle where we rely on abstractions and not concrete classes. 
-
->>>>>>> f26cd6b2f97c38c4055084399a3bc3e744e69c7e
 
 <br>
 
@@ -229,6 +222,8 @@ You will see the Template method used a lot for creating design frameworks. The 
 
 
 <br><br><br>
+
+Do you see this change 
 
 
 
