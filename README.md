@@ -24,7 +24,6 @@
 ### Single Responsibiliy Principle
 * Each class should only be responsible for one thing. Ask yourself, "Does adding this method or attribute concern the task this class is built to handle?"
 
-<<<<<<< HEAD
 
 ### Hollywood Principle 
 * "Dont call us we will call you"
@@ -32,12 +31,6 @@
 This design principle states that we want our high-level components to call low-level components, not the other way around. Kind of like how in react you pass down props to children for them to do their work. 
 
 This principle reiterates the dependency inversion principle: "Depend on abstractions, not concrete classes." 
-=======
-### Hollywood Principle
-" Dont call us, we'll call you " 
-* High level components will call low level components and not the other way around. This is similar to the the depedency inversion principle where we rely on abstractions and not concrete classes. 
-
->>>>>>> f26cd6b2f97c38c4055084399a3bc3e744e69c7e
 
 <br>
 
@@ -157,6 +150,18 @@ Templates encapsulate algorithm implementations. It defines the skeleton of an a
 2. Each step of the algorithm is represented by a method
 3. Ecapsulates the details of most steps in the subclasses. 
 
+Templates are used to encapsulate algorithm implementations. 
+
+* Defines the skeleton of an algorithm without changing the algirhtms structure
+* Each step of the algorith mis represented by a method
+* Encapsualtes the details of the general steps. The special steps are abstracted for the subclasses to implement
+
+We try to make steps of an algorithm more abstract and specified its structure in the superclass. 
+
+You will see the Template method used a lot for creating design frameworks. The framework will speicfy how something should be done and framework adopters can provide implementations of their own. 
+
+**Template vs Strategy**: Template focuses on ecapsulating specific steps of algorithsm where strategy focuses on encapsulating entirely different algorithms. 
+
 <br>
 
 ## Iterator Pattern
@@ -206,24 +211,10 @@ Iterators come pre-baked in with Java so as long as its a set of iterable object
 
 ## Composite Pattern
 ---
+Intent: Allows compsoing objects into tree structures, treating individual and composed objects the same way. 
 
-Intent: Allows 
+This pattern is best shown through code but essentailly you build a hierarchy of elements that can in themseleves, compose eachother. 
 
-
-## Template Pattern
---- 
-
-Templates are used to encapsulate algorithm implementations. 
-
-* Defines the skeleton of an algorithm without changing the algirhtms structure
-* Each step of the algorith mis represented by a method
-* Encapsualtes the details of the general steps. The special steps are abstracted for the subclasses to implement
-
-We try to make steps of an algorithm more abstract and specified its structure in the superclass. 
-
-You will see the Template method used a lot for creating design frameworks. The framework will speicfy how something should be done and framework adopters can provide implementations of their own. 
-
-**Template vs Strategy**: Template focuses on ecapsulating specific steps of algorithsm where strategy focuses on encapsulating entirely different algorithms. 
 
 
 
