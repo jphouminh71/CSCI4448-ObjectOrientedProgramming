@@ -216,12 +216,12 @@ Intent: Allows compsoing objects into tree structures, treating individual and c
 This pattern is best shown through code but essentailly you build a hierarchy of elements that can in themseleves, compose eachother. 
 
 
+The textbook in chapter 9 shows you how you can utilzie the composite pattern to build a system and then use the iterator to go over all of it. 
+
 
 
 
 <br><br><br>
-
-Do you see this change 
 
 
 
